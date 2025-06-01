@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jagadishwari!  
+# 👋 Hello, I'm Jagadeeshwari!  
 **Data Analyst | Business Intelligence Enthusiast | Python & SQL Developer**  
 
 📍 Based in [Saint Louis, Missouri.] | 🌐 [https://www.linkedin.com/in/jagadeeshwari-mandapalli/](#) | ✉️ [mandapallijagadeeshwari@gmail.com](#)  
