@@ -47,6 +47,12 @@ Currently expanding my expertise in data-driven decision-making, analytics, and 
 
 ---
 
+## Awards & Achievements
+
+- **Star Performer Award** – Project Management Internship
+- **Star Performer Award** – Data Visualisation Internship
+- **Published Paper:** Predicting School Safety Using Machine Learning Algorithms
+- **Fundraising Manager (NGO Save the Girl Child):** Collected ₹70,000 for the cause
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jagadeeshwari-mandapalli/)
